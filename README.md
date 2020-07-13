@@ -57,18 +57,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br />
+<p align="center">
+   <img src="https://github.com/TowanaD/Best-README-Template/blob/master/images/results%20stock.PNG" alt="Logo width="200" height="200">
+  </a>
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+This great for if you want to see the stock data from the beginning of the stock to yesterday's information.:smile:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Some of that stock's information includes:
+* High 
+* Low
+* Opening price 
+* Closing price
+* Volume
+* Adjusted close price
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 
 <!-- GETTING STARTED -->
@@ -90,18 +93,34 @@ pip install -U pip
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Install packages
+* pandas
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+pip install pandas
 ```
-3. Install NPM packages
+* pandas_datareader
 ```sh
-npm install
+pip install panda-datareader
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
+* numpy
+```sh
+pip install numpy
+```
+* matplotlib
+```sh
+pip install matplotlib
+```
+* beautifulsoup4
+```sh
+pip install beautifulsoup4
+```
+* scikit learn
+```sh
+pip install scikit-learn
+```
+OR
+```sh
+pip install sklearn
 ```
 
 
@@ -109,9 +128,7 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
@@ -154,16 +171,7 @@ Project Link: [https://github.com/TowanaD/Yahoo-Finance.git](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+
 
 
 
