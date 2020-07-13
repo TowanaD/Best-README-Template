@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   <img src="https://github.com/TowanaD/Best-README-Template/blob/master/images/STock%20data_graphing.png" alt="Logo width="80" height="80">
+   <img src="https://github.com/TowanaD/Best-README-Template/blob/master/images/STock%20data_graphing.png" alt="Logo width="120" height="120">
   </a>
 
   <h3 align="center">Stock-Data-Yahoo</h3>
